@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Colombo",
+    "district": "Colombo",
+    "latitude": 6.9271,
+    "longitude": 79.8612
+  },
+  {
+    "name": "Kandy",
+    "district": "Kandy",
+    "latitude": 7.2906,
+    "longitude": 80.6337
+  },
+  {
+    "name": "Galle",
+    "district": "Galle",
+    "latitude": 6.0535,
+    "longitude": 80.221
+  },
+  {
+    "name": "Jaffna",
+    "district": "Jaffna",
+    "latitude": 9.6615,
+    "longitude": 80.0255
+  },
+  {
+    "name": "Matara",
+    "district": "Matara",
+    "latitude": 5.9485,
+    "longitude": 80.5353
+  },
+  {
+    "name": "Kurunegala",
+    "district": "Kurunegala",
+    "latitude": 7.4869,
+    "longitude": 80.3647
+  },
+  {
+    "name": "Anuradhapura",
+    "district": "Anuradhapura",
+    "latitude": 8.3122,
+    "longitude": 80.4131
+  },
+  {
+    "name": "Ratnapura",
+    "district": "Ratnapura",
+    "latitude": 6.6828,
+    "longitude": 80.3992
+  },
+  {
+    "name": "Negombo",
+    "district": "Gampaha",
+    "latitude": 7.2008,
+    "longitude": 79.8737
+  },
+  {
+    "name": "Trincomalee",
+    "district": "Trincomalee",
+    "latitude": 8.5874,
+    "longitude": 81.2152
+  },
+  {
+    "name": "Batticaloa",
+    "district": "Batticaloa",
+    "latitude": 7.7292,
+    "longitude": 81.7014
+  },
+  {
+    "name": "Nuwara Eliya",
+    "district": "Nuwara Eliya",
+    "latitude": 6.9497,
+    "longitude": 80.7891
+  },
+  {
+    "name": "Badulla",
+    "district": "Badulla",
+    "latitude": 6.9934,
+    "longitude": 81.0555
+  },
+  {
+    "name": "Puttalam",
+    "district": "Puttalam",
+    "latitude": 8.0362,
+    "longitude": 79.8284
+  },
+  {
+    "name": "Chilaw",
+    "district": "Puttalam",
+    "latitude": 7.5758,
+    "longitude": 79.7975
+  },
+  {
+    "name": "Vavuniya",
+    "district": "Vavuniya",
+    "latitude": 8.7543,
+    "longitude": 80.4979
+  },
+  {
+    "name": "Mannar",
+    "district": "Mannar",
+    "latitude": 8.979,
+    "longitude": 79.904
+  },
+  {
+    "name": "Polonnaruwa",
+    "district": "Polonnaruwa",
+    "latitude": 7.9398,
+    "longitude": 81.0019
+  },
+  {
+    "name": "Ampara",
+    "district": "Ampara",
+    "latitude": 7.3026,
+    "longitude": 81.682
+  },
+  {
+    "name": "Hambantota",
+    "district": "Hambantota",
+    "latitude": 6.1248,
+    "longitude": 81.1185
+  },
+  {
+    "name": "Monaragala",
+    "district": "Monaragala",
+    "latitude": 6.8722,
+    "longitude": 81.3483
+  },
+  {
+    "name": "Kalutara",
+    "district": "Kalutara",
+    "latitude": 6.5833,
+    "longitude": 79.9611
+  },
+  {
+    "name": "Gampaha",
+    "district": "Gampaha",
+    "latitude": 7.084,
+    "longitude": 80.0097
+  },
+  {
+    "name": "Wattala",
+    "district": "Gampaha",
+    "latitude": 6.975,
+    "longitude": 79.8917
+  },
+  {
+    "name": "Panadura",
+    "district": "Kalutara",
+    "latitude": 6.71,
+    "longitude": 79.9077
+  },
+  {
+    "name": "Beruwala",
+    "district": "Kalutara",
+    "latitude": 6.4788,
+    "longitude": 79.9827
+  },
+  {
+    "name": "Katunayake",
+    "district": "Gampaha",
+    "latitude": 7.1647,
+    "longitude": 79.8728
+  },
+  {
+    "name": "Kalmunai",
+    "district": "Ampara",
+    "latitude": 7.4121,
+    "longitude": 81.835
+  },
+  {
+    "name": "Dehiwala",
+    "district": "Colombo",
+    "latitude": 6.8522,
+    "longitude": 79.8775
+  },
+  {
+    "name": "Mount Lavinia",
+    "district": "Colombo",
+    "latitude": 6.8304,
+    "longitude": 79.8711
+  },
+  {
+    "name": "Moratuwa",
+    "district": "Colombo",
+    "latitude": 6.7732,
+    "longitude": 79.8821
+  },
+  {
+    "name": "Hatton",
+    "district": "Nuwara Eliya",
+    "latitude": 6.8917,
+    "longitude": 80.5953
+  },
+  {
+    "name": "Balangoda",
+    "district": "Ratnapura",
+    "latitude": 6.6638,
+    "longitude": 80.7098
+  },
+  {
+    "name": "Weligama",
+    "district": "Matara",
+    "latitude": 5.9737,
+    "longitude": 80.4297
+  },
+  {
+    "name": "Bandarawela",
+    "district": "Badulla",
+    "latitude": 6.8347,
+    "longitude": 80.988
+  },
+  {
+    "name": "Haputale",
+    "district": "Badulla",
+    "latitude": 6.7693,
+    "longitude": 80.9571
+  },
+  {
+    "name": "Matale",
+    "district": "Matale",
+    "latitude": 7.4678,
+    "longitude": 80.6234
+  },
+  {
+    "name": "Dambulla",
+    "district": "Matale",
+    "latitude": 7.8731,
+    "longitude": 80.651
+  },
+  {
+    "name": "Kegalle",
+    "district": "Kegalle",
+    "latitude": 7.2513,
+    "longitude": 80.3465
+  },
+  {
+    "name": "Kilinochchi",
+    "district": "Kilinochchi",
+    "latitude": 9.3804,
+    "longitude": 80.3948
+  }
+]
