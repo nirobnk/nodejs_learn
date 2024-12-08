@@ -23,7 +23,7 @@ app.get("/", (req, res) => {
   //res.send("hii from Express");
   res.render("index",{title:"Home page"});
 });
-
+//test
 app.use("/category", categoryRouter);
 app.use("/products", productRouter);
 
