@@ -1,0 +1,8 @@
+::1 - - [08/Dec/2024:00:42:09 +0000] "GET / HTTP/1.1" 200 12006
+::1 - - [08/Dec/2024:00:42:09 +0000] "GET /css/bootstrap.min.css HTTP/1.1" 404 160
+::1 - - [08/Dec/2024:00:42:09 +0000] "GET /css/styles.css HTTP/1.1" 404 153
+::1 - - [08/Dec/2024:00:42:09 +0000] "GET /js/bootstrap.min.js HTTP/1.1" 404 158
+::1 - - [08/Dec/2024:00:42:30 +0000] "GET / HTTP/1.1" 200 12015
+::1 - - [08/Dec/2024:00:42:30 +0000] "GET /css/bootstrap.min.css HTTP/1.1" 404 160
+::1 - - [08/Dec/2024:00:42:30 +0000] "GET /css/styles.css HTTP/1.1" 404 153
+::1 - - [08/Dec/2024:00:42:30 +0000] "GET /js/bootstrap.min.js HTTP/1.1" 404 158
